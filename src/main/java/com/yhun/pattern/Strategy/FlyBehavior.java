@@ -1,4 +1,4 @@
-package com.yhun.pattern.ch1;
+package com.yhun.pattern.Strategy;
 
 public interface FlyBehavior {
      void fly();

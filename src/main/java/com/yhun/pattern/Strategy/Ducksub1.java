@@ -1,4 +1,4 @@
-package com.yhun.pattern.ch1;
+package com.yhun.pattern.Strategy;
 
 public class Ducksub1 extends Duck{
 

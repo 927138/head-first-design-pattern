@@ -1,4 +1,4 @@
-package com.yhun.pattern.ch1;
+package com.yhun.pattern.Strategy;
 
 public class Test2 {
      static private Ducksub2 duck2;
