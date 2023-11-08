@@ -1,0 +1,18 @@
+
+y
+java:S1450
+"WRemove the "humidity" field and declare it as a local variable in the relevant methods.(¯İæöÿÿÿÿÿ8ÆºÂÏº1
+t
+java:S1450"WRemove the "pressure" field and declare it as a local variable in the relevant methods.(Ï¼Çä8ÆºÂÏº1
+|
+java:S1450	"ZRemove the "temperature" field and declare it as a local variable in the relevant methods.(¹„ËÓşÿÿÿÿ8ÆºÂÏº1
+L	java:S106"+Replace this use of System.out by a logger.(âüÈ­ùÿÿÿÿ8ş¥¿Ïº1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8æÔøÏº1
+Q
+java:S1068	"/Remove this unused "temperature" private field.(¹„ËÓşÿÿÿÿ8ş¥¿Ïº1
+N
+java:S1068
+",Remove this unused "humidity" private field.(¯İæöÿÿÿÿÿ8ş¥¿Ïº1
+I
+java:S1068",Remove this unused "pressure" private field.(Ï¼Çä8ş¥¿Ïº1

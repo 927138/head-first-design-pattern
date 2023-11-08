@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œï³Ê8ñÉÀ¨º1
+q
+java:S1450"TRemove the "duck2" field and declare it as a local variable in the relevant methods.(Â¦€Ç8Øñ£¨º1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Â¦€Ç8Ùñ£¨º1
+L	java:S106"+Replace this use of System.out by a logger.(ÊÿÇ”øÿÿÿÿ8Úñ£¨º1
